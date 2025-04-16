@@ -4,3 +4,6 @@
 [submodule "rotulacao"]
 	path = rotulacao
 	url = https://github.com/PI-25-01/rotulacao.git
+[submodule "operacoes"]
+	path = operacoes
+	url = https://github.com/PI-25-01/operacoes.git
