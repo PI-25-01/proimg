@@ -7,3 +7,6 @@
 [submodule "operacoes"]
 	path = operacoes
 	url = https://github.com/PI-25-01/operacoes.git
+[submodule "intensidade"]
+	path = intensidade
+	url = https://github.com/PI-25-01/intensidade.git
