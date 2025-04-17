@@ -10,3 +10,6 @@
 [submodule "intensidade"]
 	path = intensidade
 	url = https://github.com/PI-25-01/intensidade.git
+[submodule "media"]
+	path = media
+	url = https://github.com/PI-25-01/media.git
