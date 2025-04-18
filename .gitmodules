@@ -13,3 +13,6 @@
 [submodule "media"]
 	path = media
 	url = https://github.com/PI-25-01/media.git
+[submodule "equalizacao"]
+	path = equalizacao
+	url = https://github.com/PI-25-01/equalizacao.git
