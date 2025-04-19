@@ -16,3 +16,9 @@
 [submodule "equalizacao"]
 	path = equalizacao
 	url = https://github.com/PI-25-01/equalizacao.git
+[submodule "gradiente"]
+	path = gradiente
+	url = https://github.com/PI-25-01/gradiente.git
+[submodule "laplaciano"]
+	path = laplaciano
+	url = https://github.com/PI-25-01/laplaciano.git
