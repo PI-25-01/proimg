@@ -22,3 +22,6 @@
 [submodule "laplaciano"]
 	path = laplaciano
 	url = https://github.com/PI-25-01/laplaciano.git
+[submodule "morfologia"]
+	path = morfologia
+	url = git@github.com:PI-25-01/morfologia.git
